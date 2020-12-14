@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jakub"
-  avatar           : "images/pic2.jpg"
+  avatar           : "/images/pic2.jpg"
   bio              : "Theoretical Physics PhD student at the University of Cambridge"
   location         : "Cambridge, UK"
   employer         :
