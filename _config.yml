@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Jakub Dolezal"
 description              : &description "My site"
 url                      : https://jakubjdolezal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" 
+baseurl                  : "" 
 repository               : "JakubJDolezal/jakubjdolezal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -86,7 +86,7 @@ author:
   location         : "Cambridge, UK"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=6XweusoAAAAJ
+  googlescholar    : "https://scholar.google.com/user=6XweusoAAAAJ"
   email            : "jakubdolezal93@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
