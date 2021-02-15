@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal webpage Jakub Dolezal "
+title: "Personal webpage Jakub Dolezal"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
