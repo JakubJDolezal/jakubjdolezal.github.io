@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MPhys. in Theoretical Physics, University of Edinburgh, 2017
+* Ph.D in Theoretical Physics, University of Cambridge, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2016: Summer student
+  * Edinburgh University
+  * Supervisor: Professor Martin Evans and Dr Rosalind
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Summer student
+  * Edinburgh University
+  * Supervisor: Dr. R. Blythe
   
-Skills
+Computational Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * scipy
+  * scipy
+  * pandas
+  * matplotlib
+* C++
+  * Molecular dynamics simulations
 
 Publications
 ======
@@ -54,6 +52,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
