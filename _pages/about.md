@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Personal webpage Jakub Dolezal "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal webpage. I am a theoretical physics PH.D. student with a particular interest in statistical physics, large deviations and diffusive systems.
+I am a member of the Department of Applied Mathematics and Theoretical Physics. I am in the Soft Matter research group and am supervised by Rob Jack. My current research interests are large deviations in ensembles of biased interacting particles and more broadly statistical mechanics in general.
