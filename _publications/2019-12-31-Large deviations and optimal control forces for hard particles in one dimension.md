@@ -2,7 +2,7 @@
 title: "Large deviations and optimal control forces for hard particles in one dimension"
 collection: publications
 permalink: /publication/2019-12-31-Large deviations and optimal control forces for hard particles in one dimension
-excerpt: 'Finding an effective force to obtain the rare events of a hydrodynamic system, observing a dynamic phase transition and using MFT to get predictions'
+excerpt: 'We use an effective force and biased ensembles to obtain the rare events of a hydrodynamic system, observe a dynamic phase transition and use MFT to get predictions to get analytical predictions.'
 date: 2019-12-31
 venue: 'Journal of Statistical Mechanics: Theory and Experiment'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1742-5468/ab4801'
