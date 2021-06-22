@@ -18,11 +18,11 @@ Work experience
 ======
 * Summer 2016: Summer student
   * Edinburgh University
-  * Supervisor: Professor Martin Evans and Dr Rosalind
+  * Supervisor: Prof. Martin Evans and Prof. Rosalind Allen
 
 * Summer 2015: Summer student
   * Edinburgh University
-  * Supervisor: Dr. R. Blythe
+  * Supervisor: Prof. R. Blythe
   
 Computational Experience
 ======
